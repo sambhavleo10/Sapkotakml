@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sapkota.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+			<width>1.2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff536786</color>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Sapkota</name>
+		<description>This contains the buildings of North-west Oart of WaterDeep</description>
+		<Placemark>
+			<name>B1</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B1</Serial>]]></description>
+			<LookAt>
+				<longitude>-80.65887256438317</longitude>
+				<latitude>37.89562315146654</latitude>
+				<altitude>0</altitude>
+				<heading>-10.02653341764947</heading>
+				<tilt>12.27623716973206</tilt>
+				<range>82.5187164911936</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65850369826111,37.89560029189816,35 -80.65844957357845,37.89566399667517,35 -80.65858626067161,37.89570453641267,35 -80.65863029422859,37.8956466229325,35 -80.65850369826111,37.89560029189816,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B2</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B2</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65862147777095,37.89566910069708,38 -80.65858883048421,37.8957106537106,38 -80.65858356474891,37.89573392341966,38 -80.65858988352757,37.89574971358882,38 -80.65860462740362,37.89577049013035,38 -80.65867518752538,37.89580123946025,38 -80.65873482991957,37.89571497723189,38 -80.65862147777095,37.89566910069708,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B3</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B3</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65872231300723,37.8957442260814,38 -80.65868391580315,37.89580730024593,38 -80.65875914296366,37.89583883735098,38 -80.6587951892874,37.89579987974829,38 -80.65879205478856,37.89575968542486,38 -80.65872231300723,37.8957442260814,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B4</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B4</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65879949975117,37.89576001780016,36 -80.65880341356595,37.89580140473615,36 -80.65876583994952,37.89584279160686,36 -80.65885899090267,37.89589159123501,36 -80.65892317905927,37.89583476147146,36 -80.65890126124569,37.89575754704786,36 -80.65879949975117,37.89576001780016,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B5</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B5</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65886995004311,37.89568095027746,39.99999999999999 -80.65876897142699,37.89568836273053,39.99999999999999 -80.65879167189915,37.89575260518215,39.99999999999999 -80.65888717114908,37.89575013443587,39.99999999999999 -80.65886995004311,37.89568095027746,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B6</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B6</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65888244247689,37.89567182434742,38 -80.65885983767916,37.89560939088319,38 -80.65874257536362,37.8956283438436,38 -80.65876941847797,37.89568074338703,38 -80.65888244247689,37.89567182434742,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B7</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B7</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65885683144067,37.89560462416444,39 -80.65885055929637,37.89553531991036,39 -80.65877650059053,37.89553173072834,39 -80.65871121006396,37.8955981514011,39 -80.65874129158708,37.89562228631367,39 -80.65885683144067,37.89560462416444,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B8</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B8</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65878615121656,37.8954942222821,39.99999999999999 -80.65883879361787,37.89545842619043,39.99999999999999 -80.65881901628141,37.89541078410397,39.99999999999999 -80.65877113447574,37.89540585564467,39.99999999999999 -80.65872741633326,37.8954789616461,39.99999999999999 -80.65878615121656,37.8954942222821,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B9</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B9</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65870849991353,37.89549517201104,39.99999999999999 -80.65876268841551,37.89540838443052,39.99999999999999 -80.65865778192713,37.89537739969448,39.99999999999999 -80.65861239293866,37.89546157473694,39.99999999999999 -80.65870849991353,37.89549517201104,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B10</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B10</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65869359358781,37.89556142196453,39 -80.65872291051433,37.8955035845539,39 -80.65860219364652,37.89546684080889,39 -80.65856856532736,37.89552535863054,39 -80.65869359358781,37.89556142196453,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B11</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B11</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65860220494979,37.89563298367889,39.99999999999999 -80.65865575629023,37.89555867581426,39.99999999999999 -80.65857032909902,37.89553182483875,39.99999999999999 -80.6585176516725,37.89560089591986,39.99999999999999 -80.65860220494979,37.89563298367889,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B12</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B12</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65888849940903,37.89530105689234,43 -80.65900812591808,37.89530013151084,43 -80.65900929881352,37.89521498519353,43 -80.65891664702848,37.89521776160307,43 -80.65888849940903,37.89530105689234,43 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B13</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B13</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65888078740863,37.89530039621372,44 -80.65890212324919,37.89522916125454,44 -80.65877104160802,37.8951905855851,44 -80.65874131509494,37.89525287299966,44 -80.65888078740863,37.89530039621372,44 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B14</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B14</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65877791503114,37.89518417869571,38 -80.65890773926425,37.89522292304067,38 -80.65893286675083,37.8951661963366,38 -80.65880540757132,37.89512504727948,38 -80.65877791503114,37.89518417869571,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B15</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B15</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65880908270643,37.8951195777584,35 -80.65893265141587,37.89515787220628,35 -80.6589654747989,37.89509625288833,35 -80.6588880034965,37.89508975706321,35 -80.65887977957898,37.89504587743797,35 -80.6588557221266,37.8950424726522,35 -80.65880908270643,37.8951195777584,35 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B16</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B16</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65889302221493,37.89508382396928,36 -80.65896431281541,37.89509215864962,36 -80.65899599757967,37.89507236423642,36 -80.65898411607721,37.89498068453775,36 -80.65895111123199,37.89497964264459,36 -80.6588864214426,37.89503694228588,36 -80.65889302221493,37.89508382396928,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B17</name>
+			<description>17</description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.658943006348,37.89516218527154,39.99999999999999 -80.65906405968649,37.89516376897079,39.99999999999999 -80.65906661984629,37.89510152775048,39.99999999999999 -80.65897061212235,37.89510027171944,39.99999999999999 -80.658943006348,37.89516218527154,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B18</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B18</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65899932658154,37.89505549559046,39 -80.65908175911798,37.89504808480308,39 -80.65909636742754,37.89494515670052,39 -80.65903793434261,37.89493362872854,39 -80.65899097910322,37.89497727021246,39 -80.65899932658154,37.89505549559046,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B19</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B19</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65909323706475,37.89504643795561,39 -80.65919549512917,37.89504726135176,39 -80.65921636397101,37.89494268637036,39 -80.65910262811656,37.8949418630028,39 -80.65909323706475,37.89504643795561,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B20</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B20</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65920674635329,37.89504597388041,39 -80.65930006148703,37.89504686123333,39 -80.65929893733789,37.89494039602025,39 -80.65922361075378,37.89494128309704,39 -80.65920674635329,37.89504597388041,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B21</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B21</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65930899510346,37.89502522784711,39 -80.65938960774299,37.89502680510147,39 -80.65938894153901,37.89493953238291,39 -80.65930966142086,37.89493900659581,39 -80.65930899510346,37.89502522784711,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B22</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B22</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65939383549416,37.89502801103862,38 -80.65950114084045,37.89504032807496,38 -80.65951674897109,37.89494025333378,38 -80.65940066421513,37.89494025316056,38 -80.65939383549416,37.89502801103862,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B23</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B23</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65950809786425,37.89503731712038,38 -80.65959291073288,37.89503936601363,38 -80.6595937761804,37.8949963402311,38 -80.65965608762987,37.89498951073608,38 -80.65962839364352,37.89493009416098,38 -80.65952540671077,37.89493692361125,38 -80.65950809786425,37.89503731712038,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B23</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B23</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65968393971409,37.89502912624931,38 -80.65976762006034,37.89500111127376,38 -80.65971056538983,37.89490505993243,38 -80.65963576031641,37.89493307485196,38 -80.65968393971409,37.89502912624931,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B24</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B24</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65977489516543,37.8949987565814,38 -80.65985789363432,37.89498623508454,38 -80.65983592347928,37.89489184199736,38 -80.65978954205605,37.89486872528332,38 -80.65971996985284,37.89490051064928,38 -80.65977489516543,37.8949987565814,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B25</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B25</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65978832130919,37.89508544408673,39.99999999999999 -80.65987009930103,37.89506232743815,39.99999999999999 -80.65986155533102,37.89499297744565,39.99999999999999 -80.65978954195646,37.89500357256472,39.99999999999999 -80.65978832130919,37.89508544408673,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B26</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B26</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6597571671446,37.89515914323002,41 -80.65991312127798,37.89511972279113,41 -80.65987900636956,37.89506876453549,41 -80.65974985693863,37.89509953166487,41 -80.6597571671446,37.89515914323002,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B27</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B27</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65977118744834,37.89525984860599,41 -80.65989979894529,37.89524182676091,41 -80.65993585820218,37.89517543022433,41 -80.6599010009131,37.89513084968402,41 -80.65974113818213,37.8951678419306,41 -80.65977118744834,37.89525984860599,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B28</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B28</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65966300904766,37.89527312751181,41 -80.65976517706794,37.89525605403728,41 -80.65973753147823,37.89517827527849,41 -80.65965940307397,37.89518776055608,41 -80.65966300904766,37.89527312751181,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B29</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B29</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65956925485143,37.89528735533381,36 -80.65965459521277,37.89527597307944,36 -80.65964978726839,37.89517732682259,36 -80.65955362922433,37.89519629724222,36 -80.65956925485143,37.89528735533381,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B30</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B30</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65945146127854,37.89516025331237,39.99999999999999 -80.65965098912588,37.89513084924842,39.99999999999999 -80.65964618122352,37.89508721723995,39.99999999999999 -80.65958367856145,37.89509195986197,39.99999999999999 -80.65957406279639,37.89506445272023,39.99999999999999 -80.65944184565495,37.89508532007815,39.99999999999999 -80.65945146127854,37.89516025331237,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B31</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B31</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65940578565012,37.89529209771173,39.99999999999999 -80.65950795379484,37.89528356117724,39.99999999999999 -80.65950314593262,37.89523423800836,39.99999999999999 -80.65944905695645,37.89523518645125,39.99999999999999 -80.65943343133884,37.8952019881589,39.99999999999999 -80.6593625147446,37.89520483358756,39.99999999999999 -80.65940578565012,37.89529209771173,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B32</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B32</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65929145971218,37.89529603887944,38 -80.65939431378361,37.89529157919137,38 -80.65936040578238,37.89522379247487,38 -80.6593106741937,37.89522557635264,38 -80.65929145971218,37.89529603887944,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B33</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B33</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65921008066032,37.89529960657417,39.99999999999999 -80.65928467812385,37.89530228239823,39.99999999999999 -80.65930502287462,37.89520684580757,39.99999999999999 -80.65923155577974,37.89519703455198,39.99999999999999 -80.65921008066032,37.89529960657417,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B34</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B34</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6590936633677,37.89528801130022,37 -80.65916826082375,37.89529603877104,37 -80.65919086624591,37.8952068457033,37 -80.65911400838398,37.89519435858082,37 -80.6590936633677,37.89528801130022,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B35</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B35</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6592413971842,37.89515271864141,41 -80.65939686848542,37.89515351016001,41 -80.65939586536648,37.89509810266941,41 -80.65924240027749,37.89509335347557,41 -80.6592413971842,37.89515271864141,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B36</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B36</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65918432306633,37.89513866904586,37 -80.65923719555282,37.89513752591885,37 -80.65923647122609,37.89509465921483,37 -80.65918577161608,37.89509465923233,37 -80.65918432306633,37.89513866904586,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B37</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B37</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65937340882999,37.89609442745068,42 -80.65942707359406,37.89611560161109,42 -80.65950241056726,37.89603253379964,42 -80.65937856898363,37.89597796972019,42 -80.65937340882999,37.89609442745068,42 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B38</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B38</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65936513201852,37.89609467190585,39.99999999999999 -80.65936965725335,37.89600063565837,39.99999999999999 -80.65933798050881,37.89599825499512,39.99999999999999 -80.65924747539336,37.89607919754999,39.99999999999999 -80.65925954270374,37.89609943321251,39.99999999999999 -80.65936513201852,37.89609467190585,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B39</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B39</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65923088276861,37.89608752986125,39 -80.65933043843077,37.89598992266907,39 -80.6593349636869,37.89596016436867,39 -80.6592731186809,37.89592802537482,39 -80.65915847876829,37.8960470584712,39 -80.65923088276861,37.89608752986125,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B40</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B40</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65915978314368,37.89603825296833,39.99999999999999 -80.65920424159278,37.8959858816361,39.99999999999999 -80.65910076841404,37.89593609541825,39.99999999999999 -80.65905457604788,37.89599269742826,39.99999999999999 -80.65915978314368,37.89603825296833,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B41</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B41</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65904600867765,37.89599024598316,39.99999999999999 -80.65909797677681,37.89593211932241,39.99999999999999 -80.65900884221429,37.89588439349286,39.99999999999999 -80.65895860319552,37.89594503439785,39.99999999999999 -80.65904600867765,37.89599024598316,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B42</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B42</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65911308688807,37.89593437972953,39.99999999999999 -80.65916577083055,37.89589280542399,39.99999999999999 -80.65918025889023,37.89589696285871,39.99999999999999 -80.65919738114917,37.89589696286122,39.99999999999999 -80.65920923502006,37.89589384478853,39.99999999999999 -80.65922372308209,37.8958844905613,39.99999999999999 -80.65923557694829,37.8958782544136,39.99999999999999 -80.65923912612787,37.89586927031473,39.99999999999999 -80.65924384534573,37.89585884290694,39.99999999999999 -80.65924384534108,37.89584767068634,39.99999999999999 -80.65924195764913,37.89583649846425,39.99999999999999 -80.65923535073742,37.89582979513422,39.99999999999999 -80.65922874382856,37.89582383661831,39.99999999999999 -80.65922119307554,37.89581862291647,39.99999999999999 -80.65921458616791,37.8958163884738,39.99999999999999 -80.65920797926069,37.89581415402949,39.99999999999999 -80.65920042851,37.89581266440022,39.99999999999999 -80.65919287776086,37.89580745069679,39.99999999999999 -80.65916550632986,37.89574563107774,39.99999999999999 -80.65902581739887,37.89577691314023,39.99999999999999 -80.65901449096278,37.89588193203431,39.99999999999999 -80.65911308688807,37.89593437972953,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B43</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B43</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6590258994212,37.89576974593285,39.99999999999999 -80.65913788129455,37.89574618115547,39.99999999999999 -80.65910801953237,37.89568235969242,39.99999999999999 -80.65901096864907,37.89570297884317,39.99999999999999 -80.6590258994212,37.89576974593285,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B44</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B44</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65901927916582,37.89569660738815,44 -80.65913685150839,37.89566507135403,44 -80.65908993840131,37.89558645982154,44 -80.65897931623964,37.8956170817222,44 -80.65901927916582,37.89569660738815,44 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B45</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B45</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65898142814873,37.89561097790516,39.99999999999999 -80.65905185776391,37.89559311395892,39.99999999999999 -80.65902672776714,37.89552433782112,39.99999999999999 -80.65895932004754,37.89553777076915,39.99999999999999 -80.65898142814873,37.89561097790516,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B46</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B46</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65895374342469,37.89552644039232,39.99999999999999 -80.65905528241845,37.89551228268903,39.99999999999999 -80.6590269814271,37.89541586808088,39.99999999999999 -80.65898979822265,37.89541116987715,39.99999999999999 -80.65892503692508,37.89543712659334,39.99999999999999 -80.65895374342469,37.89552644039232,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B47</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B47</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65906614830192,37.89552184272822,39.99999999999999 -80.65913592803714,37.895504667898,39.99999999999999 -80.6591288587144,37.89543788035275,39.99999999999999 -80.65904037045516,37.89542607916606,39.99999999999999 -80.65906614830192,37.89552184272822,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B48</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B48</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65914443554323,37.89550978962951,39.99999999999999 -80.65923380968216,37.89550498679019,39.99999999999999 -80.65925027146824,37.89544326409737,39.99999999999999 -80.65913703649883,37.89544065790638,39.99999999999999 -80.65914443554323,37.89550978962951,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B49</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B49</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65923944091494,37.89550882467319,39.99999999999999 -80.65926439171888,37.89552991055118,39.99999999999999 -80.65933346862644,37.89552917260573,39.99999999999999 -80.6593503724597,37.89543808533212,39.99999999999999 -80.65926978439705,37.89541980533507,39.99999999999999 -80.65923944091494,37.89550882467319,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B50</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B50</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65934383557158,37.89551454685103,36 -80.65943937814993,37.89551352799951,36 -80.65943550476959,37.8954299813692,36 -80.6593567467729,37.89543201908697,36 -80.65934383557158,37.89551454685103,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B51</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B51</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65945228981403,37.89552167884299,39.99999999999999 -80.65954266803357,37.89551760328198,39.99999999999999 -80.65953104784623,37.89542284918225,39.99999999999999 -80.65944325198905,37.8954289624224,39.99999999999999 -80.65945228981403,37.89552167884299,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B52</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B52</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65960464157014,37.89548296189514,36 -80.65968598184668,37.8954666599409,36 -80.65966015929079,37.89539941515432,36 -80.65957236349088,37.8954116416394,36 -80.65960464157014,37.89548296189514,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B53</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B53</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65970557946055,37.89550437616614,41 -80.65979678211814,37.89547890964258,41 -80.65975188259375,37.89538147206589,41 -80.65967050185597,37.89539586610571,41 -80.65970557946055,37.89550437616614,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B54</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B54</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6597956334887,37.89546102768202,36 -80.65988251456265,37.89543893593453,36 -80.65984872751245,37.89537418414623,36 -80.6597608811594,37.89538104014536,36 -80.6597956334887,37.89546102768202,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B55</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B55</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65989932627139,37.89545595547574,37 -80.65999935066434,37.89544576078401,37 -80.66000450694835,37.89540389067439,37 -80.6599632607481,37.89535341225863,37 -80.65985639106948,37.89537619595428,37 -80.65989932627139,37.89545595547574,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B56</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B56</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6599020266531,37.89550009405151,39.99999999999999 -80.66001386670594,37.89549707666389,39.99999999999999 -80.6600023958718,37.89544955388336,39.99999999999999 -80.65988099690685,37.8954620003913,39.99999999999999 -80.6599020266531,37.89550009405151,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B57</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B57</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65991371118693,37.89560050839113,41 -80.65999281768823,37.89559801131964,41 -80.66004281290681,37.89555306496131,41 -80.66003205430057,37.89550112702999,41 -80.65990168694934,37.89550462297107,41 -80.65989029564598,37.89554857045638,41 -80.65991371118693,37.89560050839113,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B58</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B58</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65985169169676,37.8956414594657,41 -80.65990738268854,37.89560200659957,41 -80.65987953718479,37.89554857045325,41 -80.65980802493566,37.89557404001063,41 -80.65985169169676,37.8956414594657,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B59</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B59</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65974770018576,37.89570862209688,37 -80.65985087551628,37.89565032821459,37 -80.65978608326515,37.89554981535019,37 -80.65963944955823,37.89561266030839,37 -80.65974770018576,37.89570862209688,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B60</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B60</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65959648990243,37.89569225474143,38 -80.65971654892873,37.89572585780653,38 -80.65973429160128,37.89570765609044,38 -80.6596414380375,37.8956222482113,38 -80.65959648990243,37.89569225474143,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B61</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B61</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65940795707469,37.89569236726176,39 -80.65950608454177,37.89567678493295,39 -80.65949880393477,37.89563398421872,39 -80.65956531586249,37.8956186321093,39 -80.65954880683566,37.89556715295344,39 -80.65947171146317,37.89557501972124,39 -80.65945708466326,37.8955506898475,39 -80.65936922712847,37.89556923261462,39 -80.65940795707469,37.89569236726176,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B62</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B62</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65923571515417,37.89575613806033,39.99999999999999 -80.65930475863993,37.89575656131699,39.99999999999999 -80.65935228690574,37.89569551000736,39.99999999999999 -80.65931451070081,37.89564835274948,39.99999999999999 -80.65922044846019,37.8956603556226,39.99999999999999 -80.65923571515417,37.89575613806033,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B63</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B63</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65954299456592,37.89593689056268,39 -80.65958932455051,37.89587929465762,39 -80.65946936742323,37.89582887756863,39 -80.65941141250669,37.89588470603063,39 -80.65954299456592,37.89593689056268,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B64</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B64</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65918770323945,37.89565527402042,41 -80.65932042412602,37.89563907746954,41 -80.65930042413669,37.89556241480524,41 -80.65921941210993,37.89557392757794,41 -80.65920701994371,37.8955526942341,41 -80.6591530119622,37.89556064605223,41 -80.65918770323945,37.89565527402042,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B64</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B64</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65927994697128,37.89586896962322,39.99999999999999 -80.65935028733249,37.89589643366762,39.99999999999999 -80.65942763444745,37.8957840273274,39.99999999999999 -80.65935359894168,37.89575799317758,39.99999999999999 -80.65927994697128,37.89586896962322,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B65</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B65</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65948381371784,37.895831501353,41 -80.65958511100588,37.8958721040561,41 -80.65965023058583,37.89579787718102,41 -80.65958109119222,37.89577123170757,41 -80.6595360702301,37.89577123172003,41 -80.65948381371784,37.895831501353,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B66</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B63</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65951757946375,37.89576361870026,39.99999999999999 -80.65958671879883,37.89576805960645,39.99999999999999 -80.65965505425706,37.89579407068027,39.99999999999999 -80.65971695795876,37.89573126327302,39.99999999999999 -80.65958993451352,37.89569256394915,39.99999999999999 -80.65952722681159,37.89571667182181,39.99999999999999 -80.65951757946375,37.89576361870026,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B67</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B67</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6596556875072,37.89613234373714,41 -80.65969786443218,37.89608487456075,41 -80.65963079608028,37.89605213727013,41 -80.6595927676897,37.89609796954947,41 -80.6596556875072,37.89613234373714,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B68</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B68</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65963415390222,37.89604975262785,39.99999999999999 -80.6596998018933,37.89608170682332,39.99999999999999 -80.65977158521733,37.8960788018579,39.99999999999999 -80.65979305874833,37.89603183881957,39.99999999999999 -80.65967526052424,37.89598051852402,39.99999999999999 -80.6596377571267,37.89602052886028,39.99999999999999 -80.65963415390222,37.89604975262785,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B68</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B68</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65977948084077,37.89602161064344,36 -80.65982442978584,37.89596676750715,36 -80.65973888918278,37.8959192288121,36 -80.65967903456432,37.89597852286404,36 -80.65977948084077,37.89602161064344,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B69</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B69</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65974139640116,37.89591669561951,39.99999999999999 -80.65982592837624,37.89596357107509,39.99999999999999 -80.65987602357417,37.89592213472086,39.99999999999999 -80.65987169011197,37.89585620888916,39.99999999999999 -80.65981428931416,37.89582652522315,39.99999999999999 -80.65974139640116,37.89591669561951,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B70</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B70</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.6598766716623,37.89585023464646,37 -80.6599012644799,37.89579565637762,37 -80.65985748505061,37.89577483952289,37 -80.65981644113199,37.89582254664975,37 -80.6598766716623,37.89585023464646,37 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B71</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B71</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65992798538176,37.89583573954469,36 -80.66007266718736,37.89583573916124,36 -80.66008044311783,37.89576332562203,36 -80.65992390526239,37.8957652549544,36 -80.65992798538176,37.89583573954469,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B72</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B72</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65992373988736,37.89576115789919,39.99999999999999 -80.65996207566413,37.89576236790971,39.99999999999999 -80.65996284222027,37.89570367925555,39.99999999999999 -80.65992220637712,37.89572425060953,39.99999999999999 -80.65992373988736,37.89576115789919,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B73</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B73</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65996791615601,37.89576038647192,41 -80.66006605571035,37.89576099127616,41 -80.66006835551029,37.89568294140477,41 -80.65996638253969,37.89569383232092,41 -80.65996791615601,37.89576038647192,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B74</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B74</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65993997362159,37.89594538196511,36 -80.66006140127378,37.8959461178642,36 -80.66006492157915,37.89588698441694,36 -80.65997063851319,37.89588626074109,36 -80.65993654380931,37.89591095640032,36 -80.65993997362159,37.89594538196511,36 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B75</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B75</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65992753933541,37.8960147495177,41 -80.66006297328771,37.89601474933969,41 -80.66006221224727,37.89594930368686,41 -80.65992830013418,37.89595050471982,41 -80.65992753933541,37.8960147495177,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B76</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B76</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65989101788391,37.89609340437407,39 -80.66007362563518,37.89609400460119,39 -80.66007514714384,37.896018952247,39 -80.65989101783926,37.89601775163077,39 -80.65989101788391,37.89609340437407,39 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B77</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B77</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65997319154374,37.89620268052913,39.99999999999999 -80.66009112596939,37.89620328078995,39.99999999999999 -80.66009797345265,37.89611261751841,39.99999999999999 -80.65997090878898,37.89611441898258,39.99999999999999 -80.65997319154374,37.89620268052913,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B78</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B78</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65997014821889,37.89628313662385,42 -80.66008808278256,37.89628253604157,42 -80.66009112599467,37.89620688324649,42 -80.65997547414534,37.89620568260742,42 -80.65997014821889,37.89628313662385,42 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B78</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B78</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.66000438758664,37.89641943164786,39.99999999999999 -80.66008580047382,37.89636299215307,39.99999999999999 -80.66008884368141,37.89628673893517,39.99999999999999 -80.65997319169504,37.89628854037975,39.99999999999999 -80.65997471349795,37.8963215634082,39.99999999999999 -80.65992449623138,37.89635578731409,39.99999999999999 -80.66000438758664,37.89641943164786,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B79</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B79</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65984150316892,37.89646241778179,39.99999999999999 -80.65994239494404,37.89646516293713,39.99999999999999 -80.66000269784477,37.89642123677053,39.99999999999999 -80.65990992350523,37.89634985729518,39.99999999999999 -80.65980207411575,37.89642306747913,39.99999999999999 -80.65984150316892,37.89646241778179,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B80</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B80</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65979163737344,37.89642489799076,38 -80.65991340301268,37.89633979111248,38 -80.65984266249333,37.89627756269473,38 -80.65971857759216,37.89635534847305,38 -80.65979163737344,37.89642489799076,38 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B81</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B81</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.659716449851,37.89635288199644,39.99999999999999 -80.65981088212014,37.89629231303103,39.99999999999999 -80.65975160361859,37.89624193678569,39.99999999999999 -80.65965915656655,37.89630769680629,39.99999999999999 -80.659716449851,37.89635288199644,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B82</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B82</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65965480138925,37.89630449331039,39.99999999999999 -80.65976107811385,37.89623026187033,39.99999999999999 -80.65970238916208,37.89617572856046,39.99999999999999 -80.65959715033684,37.89625150760769,39.99999999999999 -80.65965480138925,37.89630449331039,39.99999999999999 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B83</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B83</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65985141402497,37.89624931922224,41 -80.65989417288692,37.8962114025525,41 -80.65982824701244,37.89615949747934,41 -80.65985695943399,37.89613090829362,41 -80.65980459915797,37.89609677072275,41 -80.65972959515265,37.89615623738887,41 -80.65985141402497,37.89624931922224,41 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>B84</name>
+			<description><![CDATA[<Stories>1</Stories>
+<Class>A</Class>
+<Type>Residential</Type>
+<Note></Note>
+<Serial>B84</Serial>]]></description>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.65959669316491,37.89624786229137,42 -80.65967572463128,37.89619078720771,42 -80.65960580076081,37.89614174909122,42 -80.65954211165118,37.89620058294511,42 -80.65959669316491,37.89624786229137,42 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
